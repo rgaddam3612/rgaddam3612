@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Rohan Varma Gaddam 👋
 
-<!--
-**rgaddam3612/rgaddam3612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master’s Student in Information Technology**  
+University of North Carolina at Charlotte 
 
-Here are some ideas to get you started:
+I am passionate about the intersection of technology and innovation, with a strong focus on **full-stack web development**. I enjoy creating impactful solutions that blend cutting-edge technologies with user-centric design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- **Frontend:** React, Redux, Tailwind CSS, JavaScript
+- **Backend:** Node.js, Express, MongoDB
+- **Version Control:** Git, GitHub
+- **Cloud & DevOps:** Firebase, Google Cloud, AWS
+- **Languages:** JavaScript, Python, C++
+
+
+### 💼 Experience
+- **Teaching Assistant** at UNC Charlotte: Assisting in the development and delivery of courses on network-based application development, mentoring over 50 students.
+- **Web Development Intern** at Verzeo: Worked on various web development projects, gaining hands-on experience in full-stack development.
+
+### 🎨 Interests
+- Web Development | Software Engineering | Sketching | Traveling | Hiking
+
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/rgaddam5](https://www.linkedin.com/in/rgaddam5/)
